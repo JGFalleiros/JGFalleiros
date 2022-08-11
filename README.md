@@ -1,7 +1,5 @@
 # Hi there 👋, My name is João
 
-![Header](./github-header-image.png)
-
 ## 💫 Liitle Bit More About Me
 
 Self taught Brazilian Front-end software developer, using software and coffe to solve problems!
