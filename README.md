@@ -1,6 +1,6 @@
 # Hi there 👋, My name is João
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./github-header-image.png)" alt="my banner">
+![Header](./github-header-image.png)
 
 Self taught Brazilian Front-end software developer, using software and coffe to solve problems!
 
@@ -17,14 +17,3 @@ Self taught Brazilian Front-end software developer, using software and coffe to 
 <p>
 <a href="https://linkedin.com/in/jgfalleiros"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
