@@ -1,4 +1,4 @@
-# ![Header](./github-header-image.png)
+# ![Header](./github-header.png)
 
 ## 💫 Liitle Bit More About Me
 
