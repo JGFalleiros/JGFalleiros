@@ -2,7 +2,7 @@
 
 ## 💫 Liitle Bit More About Me
 
-Self taught Brazilian Front-end software developer, using software and coffe to solve problems!
+Self taught Brazilian Front-end software developer, using software and coffe to solve problems!!
 
 ## 💻 Skills
 <p>
