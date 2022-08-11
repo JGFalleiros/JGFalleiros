@@ -1,6 +1,6 @@
 # Hi there 👋, My name is João
 
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 
 ## 💫 Liitle Bit More About Me
 
